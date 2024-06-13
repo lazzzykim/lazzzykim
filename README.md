@@ -1,7 +1,5 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=KIM%20SUNGHYEON&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-    </div>
-    <div align= "center"> 
+
+<div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 김성현입니다!</li><br></li>백엔드 개발자가 되기 위해 공부중입니다!</li> </div> 
     </div>
